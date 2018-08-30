@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'gatsby-link'
-//import image from '../image/icon.png';
 
 
 
