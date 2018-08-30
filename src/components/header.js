@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 const Header = ({ siteTitle }) => (
  <div>
-   
+    
   </div>
 )
 
