@@ -4,6 +4,9 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header'
 import './index.css'
+import jpg from '!file!../image/bg.jpg'
+
+
 
 
 const Layout = ({ children, data }) => (
@@ -15,10 +18,19 @@ const Layout = ({ children, data }) => (
         { name: 'keywords', content: 'sample, something' },
       ]}
     />
-    <Header siteTitle={data.site.siteMetadata.title} />
     
+      <Header></Header>
       {children()}
- 
+      <img src={jpg} width="30" />
+
+
+
+
+
+
+
+
+
   </div>
 )
 

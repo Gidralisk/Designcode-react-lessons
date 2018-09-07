@@ -13,7 +13,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🚀 Quick start
 
-1.  **Install the Gatsby CLI.**
+1.  **Install the Gatsby CLI.** 
 
     The Gatsby CLI helps you create new sites using Gatsby starters (like this one!)
 

@@ -1,0 +1,18 @@
+.headerGroup {
+    position: fixed;
+    z-index: 99;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    align-items: center;
+    justify-items: center;
+    margin: 1vw 5vw 5vw 5vw;
+    width:90%
+
+}
+
+.headerGroup img{
+    align-self: end;
+    width: 50px;
+
+}
+
